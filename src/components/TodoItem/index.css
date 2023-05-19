@@ -1,0 +1,21 @@
+/* Write your CSS here */
+li {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #000000;
+}
+p {
+  font-size: 15px;
+  font-weight: 400;
+  margin: 4px;
+}
+button {
+  color: #ff0b37;
+  background-color: #ffffff;
+  border: 1px solid #ff0b37;
+  border-radius: 10px;
+  padding: 5px 10px;
+  margin: 4px;
+}
